@@ -1,25 +1,31 @@
 ﻿<Properties StartupConfiguration="{D7A0636E-4A99-4AEA-AECC-B0AD13091299}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RepeatedString/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepeatedString Status">
     <Files>
-      <File FileName="RepeatedString/Program.cs" Line="1" Column="1" />
+      <File FileName="RepeatedString Status" />
+      <File FileName="RepeatedString Status" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RepeatedString" expanded="True">
+          <Node name="RepeatedString" expanded="True" selected="True">
             <Node name="RepeatedString" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/cjrisua/VisualStudio/cjrisua/HackerRank.git/RepeatedString/RepeatedString/Program.cs" relfile="RepeatedString/Program.cs" line="43" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.RepeatedString FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RepeatedString PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
